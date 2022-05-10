@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicking on StartNowButton[[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selecting nationality DropDownList Chile from dropdown [[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //select[@id='response']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on NationalityContinue[[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Work,academic visit or business[[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //input[@id='response-1']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on reason For Travelling Continue Button [[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on longer than 6 months[[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //input[@id='response-1']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on durationContinue [[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on health and care professional[[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //input[@id='response-0']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on WorkPlanningContinue[[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Getting result  [[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //div[@id='result-info']//div[2]/h2]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on StartNowButton[[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selecting nationality DropDownList Colombia from dropdown [[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //select[@id='response']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on NationalityContinue[[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Join partner or family for a long stay[[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //input[@id='response-4']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on reason For Travelling Continue Button [[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Yes[[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //input[@id='response-0']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on StatusContinue [[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Getting result  [[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //div[@id='result-info']//div[2]/h2]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on StartNowButton[[ChromeDriver: chrome on WINDOWS (2b38e1980f48e988c65b1c0747421db1)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selecting nationality DropDownList Australia from dropdown [[ChromeDriver: chrome on WINDOWS (2b38e1980f48e988c65b1c0747421db1)] -> xpath: //select[@id='response']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on NationalityContinue[[ChromeDriver: chrome on WINDOWS (2b38e1980f48e988c65b1c0747421db1)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Tourism [[ChromeDriver: chrome on WINDOWS (2b38e1980f48e988c65b1c0747421db1)] -> xpath: //input[@id='response-0']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on reason For Travelling Continue Button [[ChromeDriver: chrome on WINDOWS (2b38e1980f48e988c65b1c0747421db1)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Getting result  [[ChromeDriver: chrome on WINDOWS (2b38e1980f48e988c65b1c0747421db1)] -> xpath: //div[@id='result-info']//div[2]/h2]]]>
+    </line>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="17205" started-at="2022-05-10T21:46:42 BST" finished-at="2022-05-10T21:47:00 BST">
+    <groups>
+      <group name="regression">
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuits.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" class="gov.uk.check.visa.testsuits.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.anAustralianCominToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="anAustralianCominToUKForTourism" class="gov.uk.check.visa.testsuits.VisaConfirmationTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuits.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.anAustralianCominToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="anAustralianCominToUKForTourism" class="gov.uk.check.visa.testsuits.VisaConfirmationTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="VisaConfirmationTest.anAustralianCominToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="anAustralianCominToUKForTourism" class="gov.uk.check.visa.testsuits.VisaConfirmationTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Visa conformation Test" duration-ms="17205" started-at="2022-05-10T21:46:42 BST" finished-at="2022-05-10T21:47:00 BST">
+      <class name="gov.uk.check.visa.testsuits.VisaConfirmationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="setUp" is-config="true" duration-ms="3527" started-at="2022-05-10T21:46:43 BST" finished-at="2022-05-10T21:46:46 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="inIt" is-config="true" duration-ms="28" started-at="2022-05-10T21:46:46 BST" finished-at="2022-05-10T21:46:46 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" duration-ms="3713" started-at="2022-05-10T21:46:46 BST" finished-at="2022-05-10T21:46:50 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on StartNowButton[[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selecting nationality DropDownList Chile from dropdown [[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //select[@id='response']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on NationalityContinue[[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Work,academic visit or business[[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //input[@id='response-1']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on reason For Travelling Continue Button [[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on longer than 6 months[[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //input[@id='response-1']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on durationContinue [[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on health and care professional[[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //input[@id='response-0']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on WorkPlanningContinue[[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Getting result  [[ChromeDriver: chrome on WINDOWS (9ef20e556da32a47c7d0e4f221c3cce2)] -> xpath: //div[@id='result-info']//div[2]/h2]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-05-10T21:46:50 BST" finished-at="2022-05-10T21:46:50 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="setUp" is-config="true" duration-ms="1615" started-at="2022-05-10T21:46:50 BST" finished-at="2022-05-10T21:46:52 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="inIt" is-config="true" duration-ms="5" started-at="2022-05-10T21:46:52 BST" finished-at="2022-05-10T21:46:52 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" duration-ms="3247" started-at="2022-05-10T21:46:52 BST" finished-at="2022-05-10T21:46:55 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on StartNowButton[[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selecting nationality DropDownList Colombia from dropdown [[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //select[@id='response']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on NationalityContinue[[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Join partner or family for a long stay[[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //input[@id='response-4']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on reason For Travelling Continue Button [[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Yes[[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //input[@id='response-0']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on StatusContinue [[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Getting result  [[ChromeDriver: chrome on WINDOWS (e3b5587d0ff6fec1a3f813c5b48255d1)] -> xpath: //div[@id='result-info']//div[2]/h2]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-05-10T21:46:55 BST" finished-at="2022-05-10T21:46:55 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="setUp" is-config="true" duration-ms="1706" started-at="2022-05-10T21:46:55 BST" finished-at="2022-05-10T21:46:57 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="inIt" is-config="true" duration-ms="7" started-at="2022-05-10T21:46:57 BST" finished-at="2022-05-10T21:46:57 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="anAustralianCominToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="anAustralianCominToUKForTourism" duration-ms="2966" started-at="2022-05-10T21:46:57 BST" finished-at="2022-05-10T21:47:00 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on StartNowButton[[ChromeDriver: chrome on WINDOWS (2b38e1980f48e988c65b1c0747421db1)] -> xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selecting nationality DropDownList Australia from dropdown [[ChromeDriver: chrome on WINDOWS (2b38e1980f48e988c65b1c0747421db1)] -> xpath: //select[@id='response']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on NationalityContinue[[ChromeDriver: chrome on WINDOWS (2b38e1980f48e988c65b1c0747421db1)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Tourism [[ChromeDriver: chrome on WINDOWS (2b38e1980f48e988c65b1c0747421db1)] -> xpath: //input[@id='response-0']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on reason For Travelling Continue Button [[ChromeDriver: chrome on WINDOWS (2b38e1980f48e988c65b1c0747421db1)] -> xpath: //button[contains(text(),'Continue')]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Getting result  [[ChromeDriver: chrome on WINDOWS (2b38e1980f48e988c65b1c0747421db1)] -> xpath: //div[@id='result-info']//div[2]/h2]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- anAustralianCominToUKForTourism -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuits.VisaConfirmationTest@6ec8211c]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-05-10T21:47:00 BST" finished-at="2022-05-10T21:47:00 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gov.uk.check.visa.testsuits.VisaConfirmationTest -->
+    </test> <!-- Visa conformation Test -->
+  </suite> <!-- testsuite -->
+</testng-results>

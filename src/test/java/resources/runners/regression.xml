@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="regression Suits" verbose="1">
+    <groups>
+        <run>
+            <include name="regression"></include>
+        </run>
+    </groups>
+    <listeners>
+        <listener class-name="gov.uk.check.visa.customlisteners.Customlisteners"></listener>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+    </listeners>
+    <test name="regression">
+        <classes>
+            <class name="gov.uk.check.visa.testsuits.VisaConfirmationTest"></class>
+        </classes>
+    </test>
+</suite>
